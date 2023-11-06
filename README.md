@@ -9,4 +9,4 @@ The train part of the dataset is in the imdb_reviews_small_lemm_train.tsv file, 
 
 Use the trained classification model to determine the prediction results for the test sample of reviews from the imdb_reviews_small_lemm_test.tsv file. Save the predictions to the pos column. The model accuracy should be at least 0.82.
 
-Save the table with results as a CSV file. Don't specify the file extension so that the platform accepts the file (for example, call it 'predictions'). To submit your answer, upload your CSV file to the platform, do not submit your actual code.
+Save the table with results as a CSV file. 
